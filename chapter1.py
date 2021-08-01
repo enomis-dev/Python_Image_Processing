@@ -1,4 +1,10 @@
-# Objective: Learn basic image processing techniques with OpenCV
+# Objective: Learn basic image processing techniques with OpenCV:
+#- read image
+#- convert to grey scale
+#- blur an iamge
+#- canny method
+#- dilation
+#- erosion
 # import open cv library
 import cv2 as cv
 

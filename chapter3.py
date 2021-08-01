@@ -1,4 +1,4 @@
-# How to process a video
+# Objective: How to open a video and rescale it
 import cv2 as cv
 
 # this  function is used to rescale a frame (work for images and videos and live videos)
