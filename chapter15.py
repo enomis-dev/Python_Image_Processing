@@ -1,3 +1,4 @@
+# Objective: Apply the haar cascade trained model on a validation image
 import numpy as np
 import cv2 as cv
 import os

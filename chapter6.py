@@ -1,4 +1,4 @@
-# Objective: Learn how to split in image in its 3 colors
+# Objective: Learn how to split an image in its 3 colors
 import cv2 as cv
 import numpy as np
 
