@@ -1,3 +1,4 @@
+# Objective: Learn basic image processing techniques with OpenCV
 # import open cv library
 import cv2 as cv
 
