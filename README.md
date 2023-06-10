@@ -21,6 +21,9 @@ Lessons 1-12 contains codes/notes taken from the amazing free tutorial on Python
 - lesson 2: haar cascade model for detection + train face recognizer for classification
 - lesson 3: object detection with yolov7 model
 
-# Registration - TODO
-- lesson 1: TODO
+# Registration - How to perform image registration
+- lesson 1: feature-based image registration
+
+# Segmentation
+- lesson 1: Use SamModel to do image segmentation
 
