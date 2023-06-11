@@ -25,5 +25,5 @@ Lessons 1-12 contains codes/notes taken from the amazing free tutorial on Python
 - lesson 1: feature-based image registration
 
 # Segmentation
-- lesson 1: Use SamModel to do image segmentation
+- lesson 1: Use SamModel to do instance segmentation
 
