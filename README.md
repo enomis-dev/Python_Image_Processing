@@ -20,6 +20,7 @@ Lessons 1-12 contains codes/notes taken from the amazing free tutorial on Python
 - lesson 1: face detection using haar cascade model
 - lesson 2: haar cascade model for detection + train face recognizer for classification
 - lesson 3: object detection with yolov7 model
+- lesson 4: video object detection with yolov7 model
 
 # Registration - How to perform image registration
 - lesson 1: feature-based image registration
