@@ -24,6 +24,7 @@ Lessons 1-12 contains codes/notes taken from the amazing free tutorial on Python
 
 # Registration - How to perform image registration
 - lesson 1: feature-based image registration
+- lesson 2: LoFTR registration
 
 # Segmentation
 - lesson 1: Use SamModel to do instance segmentation
