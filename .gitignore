@@ -1,3 +1,5 @@
 detection/yolov7
 Data/registered
 segmentation/checkpoint
+others/dataset
+others/output

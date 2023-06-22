@@ -29,3 +29,7 @@ Lessons 1-12 contains codes/notes taken from the amazing free tutorial on Python
 # Segmentation
 - lesson 1: Use SamModel to do instance segmentation
 
+# Others
+- lesson 1: Digit recognition
+- lesson 2: Style transfer
+
