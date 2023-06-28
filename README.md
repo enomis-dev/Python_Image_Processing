@@ -1,7 +1,7 @@
 # Python_Image_Processing
 The repository contains explanatory python notebooks about different aspect of image processing.
 
-# Basics - Basics image processing operations
+## Basics - Basics image processing operations
 Lessons 1-12 contains codes/notes taken from the amazing free tutorial on Python OpenCV available on youtube: https://www.youtube.com/watch?v=oXlwWbU8l2o&t=364s
 - lesson 1: basic operations (read an image, convert to grey scale, blur an iamge, canny method for edge detection, dilation, erosion)
 - lesson 2: add figures or text to blank images
@@ -16,20 +16,34 @@ Lessons 1-12 contains codes/notes taken from the amazing free tutorial on Python
 - lesson 11: apply a mask to an image
 - lesson 12: generate histograms for an image
 
-# Detection - Object detection and classification
+## Detection - Object detection and classification
 - lesson 1: face detection using haar cascade model
 - lesson 2: haar cascade model for detection + train face recognizer for classification
 - lesson 3: object detection with yolov7 model
 - lesson 4: video object detection with yolov7 model
 
-# Registration - How to perform image registration
+## Registration - How to perform image registration
 - lesson 1: feature-based image registration
 - lesson 2: LoFTR registration
 
-# Segmentation
+## Segmentation
 - lesson 1: Use SamModel to do instance segmentation
 
-# Others
+## Others
 - lesson 1: Digit recognition
 - lesson 2: Style transfer
 
+# Installation
+You could install requirements for this project with a virtual environment as [venv](https://docs.python.org/3/library/venv.html)  
+
+git clone https://github.com/SimoneDeGasperis/Python_Image_Processing.git  
+
+cd Python_Image_Processing  
+
+pip install virtualenv  
+
+python -m venv venv  
+
+venv\Scripts\activate  
+
+pip install -r requirements.txt
